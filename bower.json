@@ -1,0 +1,17 @@
+{
+    "name": "saira-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/saira-bower.git"
+    },
+    "description": "Saira font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
